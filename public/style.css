@@ -1,0 +1,9 @@
+* {
+    background-color: lightblue;
+}
+
+h1 {
+    align-items: center;
+    margin: 100px;
+    justify-content: center;
+}
